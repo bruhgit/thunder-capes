@@ -1,0 +1,20 @@
+{
+  "network": "Thunder Client Cape Network",
+  "version": "1.5.2",
+  "cdn": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/",
+  "capes": {
+    "bruhgit": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/bruhgit.png",
+    "omerdev": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/omerdev.png",
+    "thunder": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/thunder.png",
+    "anniversary15": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/anniversary15.png",
+    "cherry": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/cherry.png",
+    "migrator": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/migrator.png",
+    "minecon2011": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/minecon2011.png",
+    "minecon2012": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/minecon2012.png",
+    "minecon2013": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/minecon2013.png",
+    "minecon2015": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/minecon2015.png",
+    "minecon2016": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/minecon2016.png",
+    "twitch": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/twitch.png",
+    "vanilla": "https://raw.githubusercontent.com/bruhgit/thunder-capes/main/capes/vanilla.png"
+  }
+}
